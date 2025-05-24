@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalConsume>
+	<ConsumeAward ID="1" MinYuanBao="10000" GoodsIDs="15027,1|186,3|15000,5" />
+	<ConsumeAward ID="2" MinYuanBao="20000" GoodsIDs="15027,2|188,3|15000,10" />
+	<ConsumeAward ID="3" MinYuanBao="40000" GoodsIDs="15027,4|189,1|402,3" />
+	<ConsumeAward ID="4" MinYuanBao="70000" GoodsIDs="15028,1|189,1|402,3" />
+	<ConsumeAward ID="5" MinYuanBao="100000" GoodsIDs="15028,2|189,1|402,5" />
+	<ConsumeAward ID="6" MinYuanBao="150000" GoodsIDs="15028,3|190,1|403,1" />
+	<ConsumeAward ID="7" MinYuanBao="250000" GoodsIDs="15028,5|191,1|403,2" />
+	<ConsumeAward ID="8" MinYuanBao="500000" GoodsIDs="15028,8|191,2|403,4" />
+	<ConsumeAward ID="9" MinYuanBao="750000" GoodsIDs="15029,2|394,2|403,10" />
+	<ConsumeAward ID="10" MinYuanBao="1000000" GoodsIDs="15028,12|394,3|403,12" />
+	<ConsumeAward ID="11" MinYuanBao="1500000" GoodsIDs="15029,3|395,1|403,15" />
+	<ConsumeAward ID="12" MinYuanBao="2000000" GoodsIDs="15029,4|395,2|403,20" />
+	<ConsumeAward ID="13" MinYuanBao="3000000" GoodsIDs="15029,6|396,1|403,30" />
+</TotalConsume>

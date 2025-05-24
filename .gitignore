@@ -1,0 +1,8 @@
+*.log
+
+AppConfig.xml
+GMList.xml
+NameServer.xml
+ServerConfig.xml
+
+Start.txt
